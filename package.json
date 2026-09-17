@@ -1,14 +1,14 @@
 {
   "name": "mpesa-daraja-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my first daraja api project",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js",
     "start": "node src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marine the master coder",
   "license": "ISC",
   "type": "module",
   "dependencies": {
