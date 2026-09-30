@@ -47,7 +47,7 @@ export const initiateSTKPush = async({
         PartyA:phoneNumber,
         PartyB:mpesaConfig.businessShortCode,
         PhoneNumber:phoneNumber,
-        CallBackURL:"https://prefraternal-krystle-uncogently.ngrok-free.dev/api/mpesa/callback",
+        CallBackURL:"https://unvivified-magen-nonsufferably.ngrok-free.dev/api/mpesa/callback",
         AccountReference:accountReference,
         TransactionDesc:transactionDescription
 
